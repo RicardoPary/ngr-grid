@@ -1,9 +1,15 @@
 {
   "name": "ngr-grid",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "peerDependencies": {
     "@angular/common": "^11.1.2",
-    "@angular/core": "^11.1.2"
+    "@angular/core": "^11.1.2",
+
+    "@angular/cdk": "^11.1.0",
+    "@angular/material": "^11.1.0",
+
+    "ag-grid-angular": "^25.0.0",
+    "ag-grid-community": "^25.0.0"
   },
   "dependencies": {
     "tslib": "^2.0.0"
